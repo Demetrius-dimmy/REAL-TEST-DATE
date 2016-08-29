@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">REAL TEST DATE</string>
+    <string name="tvEscolha">Escolha o produto a ser datado</string>
+    <string name="btnProximo"/>
+    <string-array name="spProdutos">
+        <item>Guarana Antarctica</item>
+        <item>Guarana Zero</item>
+        <item>Pepsi</item>
+        <item>Pepsi Light</item>
+        <item>Pepsi Twist</item>
+        <item>Soda Limonada</item>
+        <item>Sukita</item>
+        <item>Sukita Uva</item>
+        <item>Teen</item>
+        <item>Tonica</item>
+        <item>Cerveja</item>
+    </string-array>
+</resources>
